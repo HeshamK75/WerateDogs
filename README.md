@@ -3,8 +3,7 @@
 ### Introduction
 We rate dog is a twitter account with funny and interesting tweets of rating dogs
 <br>
-![we rate dogs](images/we_rate_dogs.jpg)
-
+![alt text](https://github.com/HeshamK75/WerateDogs/blob/main/we_rate_dogs.jpeg)
 ### Overview
 Project objectives <br>
 The project main objectives were: <br>
