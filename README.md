@@ -23,7 +23,7 @@ This project was completed as part of [Udacity](www.udacity.com)'s **Data Analys
 - [twitter_archive_master.db](data/twitter_archive_master.db) database hold the cleaned combined dataset.
 
 ### Reports
-- [Wrangle report](reports/wrangle_report.pdf): documentation for data wrangling steps: gather, assess, and clean.
+- [Wrangle report](https://github.com/HeshamK75/WerateDogs/blob/main/wrangle_report.pdf): documentation for data wrangling steps: gather, assess, and clean.
 - [Act report](reports/act_report.pdf): documentation of analysis and insights into final data.
 
 ### Used Tools
